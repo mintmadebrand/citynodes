@@ -1,1 +1,4 @@
-# citynodes
+# citynodespinataOptions: {
+    cidVersion: 0, 
+    wrapWithDirectory: false
+}
